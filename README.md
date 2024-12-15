@@ -9,7 +9,7 @@
 
   Si ingresas algún otro valor no válido, dará un error y tendrás que volver a ingresar.
 
----
+----
 
 ### Menú Secundario (Sistema de Inventario)
 
